@@ -15,5 +15,4 @@ class EmailParser
     @emails.split(/\W* /).uniq
   end
 
-
 end
